@@ -122,7 +122,7 @@
 			</div><!-- p-item -->
 			
 			<div class="p-item web-design">
-				<h1><a href="Github.com">Rental DVD</a></h1>
+				<h3><a href="Github.com">Rental DVD</a></h3>
 
 			</div><!-- p-item -->
 			
@@ -130,12 +130,12 @@
 			</div><!-- p-item -->
 			
 			<div class="p-item branding">
-				<h1><a href="Github.com">E-Goverment</a></h1>
+				<h3><a href="Github.com">E-Goverment</a></h3>
 
 			</div><!-- p-item -->
 			
 			<div class="p-item graphic-design">
-			<h2><a href="Github.com">Pusat Informasi Obat</a></h2>
+			<h3><a href="Github.com">Pusat Informasi Obat</a></h3>
 
 			</div><!-- p-item -->
 			
