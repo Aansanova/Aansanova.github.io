@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-	<title>CV - Boxed</title>
+	<title>CV - Aan Sanova</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">
@@ -45,7 +45,7 @@
 							<i class="icon ion-ios-telephone-outline"></i>
 							<div class="right-area">
 								<h5>+62895-1912-2764</h5>
-								<h6>MIN - FRI,8AM - 7PM</h6>
+								<h6>Whatsapp Only</h6>
 							</div><!-- right-area -->
 						</div><!-- info -->
 					</div><!-- col-sm-4 -->
@@ -104,10 +104,9 @@
 				</div><!-- col-sm-4 -->
 				<div class="col-sm-8">
 					<div class="portfolioFilter clearfix margin-b-80">
-						<a href="#" data-filter="*" class="current"><b>ALL</b></a>
-						<a href="#" data-filter=".web-design"><b>WEB DESIGN</b></a>
-						<a href="#" data-filter=".branding"><b>BRANDING</b></a>
-						<a href="#" data-filter=".graphic-design"><b>GRAPHIC DESIGN</b></a>
+						<a href="#" data-filter=".web-design"><b>Rental DVD</b></a>
+						<a href="#" data-filter=".branding"><b>E-Gov</b></a>
+						<a href="#" data-filter=".graphic-design"><b>Pusat Informasi Obat</b></a>
 					</div><!-- portfolioFilter -->
 				</div><!-- col-sm-8 -->
 			</div><!-- row -->
@@ -116,52 +115,39 @@
 		<div class="portfolioContainer">
 			
 			<div class="p-item web-design">
-				<a href="images/portfolio-1-600x400.jpg" data-fluidbox>
-					<img src="images/portfolio-1-600x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 			
-			<div class="p-item branding graphic-design">
-				<a href="images/portfolio-7-600x800.jpg" data-fluidbox>
-					<img src="images/portfolio-7-600x800.jpg" alt=""></a>
+			<div class="p-item branding">
+
 			</div><!-- p-item -->
 			
 			<div class="p-item web-design">
-				<a href="images/portfolio-2-600x400.jpg" data-fluidbox>
-					<img src="images/portfolio-2-600x400.jpg" alt=""></a>
+				<h1><a href="Github.com">Rental DVD</a></h1>
+
 			</div><!-- p-item -->
 			
 			<div class="p-item p-item-2 graphic-design">
-				<a class="img" href="images/portfolio-8-300x400.jpg" data-fluidbox>
-					<img src="images/portfolio-8-300x400.jpg" alt=""></a>
-				<a class="img" href="images/portfolio-9-300x400.jpg" data-fluidbox>
-					<img src="images/portfolio-9-300x400.jpg" alt=""></a>
 			</div><!-- p-item -->
 			
-			<div class="p-item branding graphic-design">
-				<a href="images/portfolio-3-600x400.jpg" data-fluidbox>
-					<img src="images/portfolio-3-600x400.jpg" alt=""></a>
+			<div class="p-item branding">
+				<h1><a href="Github.com">E-Goverment</a></h1>
+
 			</div><!-- p-item -->
 			
-			<div class="p-item graphic-design web-design">
-				<a href="images/portfolio-4-600x400.jpg" data-fluidbox>
-					<img src="images/portfolio-4-600x400.jpg" alt=""></a>
+			<div class="p-item graphic-design">
+			<h2><a href="Github.com">Pusat Informasi Obat</a></h2>
+
 			</div><!-- p-item -->
 			
-			<div class="p-item  graphic-design branding">
-				<a href="images/portfolio-5-600x800.jpg" data-fluidbox>
-					<img src="images/portfolio-5-600x800.jpg" alt=""></a>
+			<div class="p-item  graphic-design">
+
 			</div><!-- p-item -->
 				
 			<div class="p-item web-design branding">
-				<a href="images/portfolio-6-600x800.jpg" data-fluidbox>
-					<img src="images/portfolio-6-600x800.jpg" alt=""></a>
 			</div><!-- p-item -->
 
 			<div class="p-item p-item-2 graphic-design">
-				<a class="img" href="images/portfolio-10-300x400.jpg" data-fluidbox>
-					<img src="images/portfolio-10-300x400.jpg" alt=""></a>
-				<a class="img" href="images/portfolio-11-300x400.jpg" data-fluidbox>
-					<img src="images/portfolio-11-300x400.jpg" alt=""></a>
+
 			</div><!-- p-item -->
 		
 		</div><!-- portfolioContainer -->
@@ -179,7 +165,7 @@
 					</div>
 				</div><!-- col-sm-4 -->
 				<div class="col-sm-8">
-					<p class="margin-b-50">Saya sedang menempuh pendidikan di Institut Teknologi Sumatera</p>
+					<p class="margin-b-50">Saya sedang menempuh pendidikan di Institut Teknologi Sumatera program studi Teknik Informatika. Sedang mencari tempat kerja praktik untuk menambah ilmu dan wawasan didunia kerja nanti.</p>
 					
 					<div class="row">
 						<div class="col-sm-6 col-md-6 col-lg-3">
@@ -217,7 +203,36 @@
 								</div>
 							</div><!-- radial-prog-area-->
 						</div><!-- col-sm-6-->
+
+
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-50">
+								<div class="radial-progress" data-prog-percent=".75">
+									<div></div>
+									<h6 class="progress-title">SQL</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
 					
+
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-50">
+								<div class="radial-progress" data-prog-percent=".80">
+									<div></div>
+									<h6 class="progress-title">CorelDraw</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
+
+
+						<div class="col-sm-6 col-md-6 col-lg-3">
+							<div class="radial-prog-area margin-b-50">
+								<div class="radial-progress" data-prog-percent=".80">
+									<div></div>
+									<h6 class="progress-title">Adobe Premiere</h6>
+								</div>
+							</div><!-- radial-prog-area-->
+						</div><!-- col-sm-6-->
 					</div><!-- row -->
 				</div><!-- col-sm-8 -->
 			</div><!-- row -->
@@ -229,40 +244,57 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<div class="heading">
-						<h3><b>Work Experience</b></h3>
-						<h6 class="font-lite-black"><b>PREVIOUS JOBS</b></h6>
+						<h3><b>ORGANISASI</b></h3>
+						<h6 class="font-lite-black"><b> </b></h6>
 					</div>
 				</div><!-- col-sm-4 -->
 				<div class="col-sm-8">
 				
 					<div class="experience margin-b-50">
-						<h4><b>JUNIOR PROJECT MANAGER</b></h4>
-						<h5 class="font-yellow"><b>DESIGN STUDIO</b></h5>
-						<h6 class="margin-t-10">MARCH 2015 - PRESENT</h6>
-						<p class="font-semi-white margin-tb-30">Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales. 
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, 
-							quis consequat nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu, 
-							eu mollis tellus. Sed finibus aliquam neque sit amet sodales. </p>
-						<ul class="list margin-b-30">
-							<li>Duis non volutpat arcu, eu mollis tellus.</li>
-							<li>Quis consequat nulla effi citur at.</li>
-							<li>Sed finibus aliquam neque sit.</li>
-						</ul>
+						<h4><b>ANGGOTA TETAP</b></h4>
+						<h5 class="font-yellow"><b>HIMPUNAN MAHASISWA ELEKTRO DAN INFORMATIKA</b></h5>
+						<h6 class="margin-t-10">2016 - 2019</h6>
 					</div><!-- experience -->
 					
 					<div class="experience margin-b-50">
-						<h4><b>WEB MASTER/WEB DEVELOPER</b></h4>
-						<h5 class="font-yellow"><b>DESIGN & WEB STUDIO</b></h5>
-						<h6 class="margin-t-10">APRIL 2014 - FEBRUARY 2015</h6>
-						<p class="font-semi-white margin-tb-30">Duis non volutpat arcu, eu mollis tellus. Sed finibus aliquam neque sit amet sodales. 
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla maximus pellentes que velit, 
-							quis consequat nulla effi citur at. Maecenas sed massa tristique.Duis non volutpat arcu, 
-							eu mollis tellus. Sed finibus aliquam neque sit amet sodales. </p>
-						<ul class="list margin-b-30">
-							<li>Duis non volutpat arcu, eu mollis tellus.</li>
-							<li>Quis consequat nulla effi citur at.</li>
-							<li>Sed finibus aliquam neque sit.</li>
-						</ul>
+						<h4><b>STAFF PUSAT DATA DAN INFORMASI</b></h4>
+						<h5 class="font-yellow"><b>HIMPUNAN MAHASISWA ELEKTRO DAN INFORMATIKA</b></h5>
+						<h6 class="margin-t-10">2017 - 2018</h6>
+					</div><!-- experience -->
+					
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+	</section><!-- experience-section -->
+
+<section class="experience-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>KEPANITIAN</b></h3>
+						<h6 class="font-lite-black"><b> </b></h6>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+				
+					<div class="experience margin-b-50">
+						<h4><b>STAF Divisi Kreatif</b></h4>
+						<h5 class="font-yellow"><b>FIRST GATHERING TROIKA 2017</b></h5>
+						<h6 class="margin-t-10">2017</h6>
+					</div><!-- experience -->
+					
+					<div class="experience margin-b-50">
+						<h4><b>STAFF DIVISI ACARA</b></h4>
+						<h5 class="font-yellow"><b>DIES NATALIES ITERA KE-3</b></h5>
+						<h6 class="margin-t-10">2017</h6>
+					</div><!-- experience -->
+
+					<div class="experience margin-b-50">
+						<h4><b>STAFF DIVISI LOGISTIK</b></h4>
+						<h5 class="font-yellow"><b>COMPTECH</b></h5>
+						<h6 class="margin-t-10">2018</h6>
 					</div><!-- experience -->
 					
 				</div><!-- col-sm-8 -->
@@ -276,7 +308,7 @@
 			<div class="row">
 				<div class="col-sm-4">
 					<div class="heading">
-						<h3><b>Education</b></h3>
+						<h3><b>PENDIDIKAN</b></h3>
 						<h6 class="font-lite-black"><b>ACADEMIC CAREER</b></h6>
 					</div>
 				</div><!-- col-sm-4 -->
@@ -312,42 +344,6 @@
 		</div><!-- container -->
 		
 	</section><!-- about-section -->
-	
-	<section class="counter-section" id="counter">
-		<div class="container">
-			<div class="row">
-			
-				<div class="col-sm-6 col-md-6 col-lg-3">
-					<div class="counter margin-b-30">
-						<h1 class="title"><b><span class="counter-value" data-duration="400" data-count="3">0</span></b></h1>
-						<h5 class="desc"><b>Coder Degrees</b></h5>
-					</div><!-- counter -->
-				</div><!-- col-md-3-->
-				
-				<div class="col-sm-6 col-md-6 col-lg-3">
-					<div class="counter margin-b-30">
-						<h1 class="title"><b><span class="counter-value" data-duration="1400" data-count="25">0</span></b></h1>
-						<h5 class="desc"><b>Project Completed</b></h5>
-					</div><!-- counter -->
-				</div><!-- col-md-3-->
-				
-				<div class="col-sm-6 col-md-6 col-lg-3">
-					<div class="counter margin-b-30">
-						<h1 class="title"><b><span class="counter-value" data-duration="700" data-count="311">0</span></b></h1>
-						<h5 class="desc"><b>Satisfied Clients</b></h5>
-					</div><!-- counter -->
-				</div><!-- col-md-3-->
-				
-				<div class="col-sm-6 col-md-6 col-lg-3">
-					<div class="counter margin-b-30">
-						<h1 class="title"><b><span class="counter-value" data-duration="2000" data-count="732">0</span></b></h1>
-						<h5 class="desc"><b>Finished Projects</b></h5>
-					</div><!-- margin-b-30 -->
-				</div><!-- col-md-3-->
-				
-			</div><!-- row-->
-		</div><!-- container-->
-    </section><!-- counter-section-->
 	
 	<footer>
 		<p class="copyright">
